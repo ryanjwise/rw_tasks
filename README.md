@@ -20,7 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Run `gem install rw_tasks` to download application.
+
+To enter application type `rw_tasks` into a terminal.
+
+Note not yet implemented in rubygems
 
 ## Development
 
